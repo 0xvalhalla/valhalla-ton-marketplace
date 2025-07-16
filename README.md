@@ -13,8 +13,7 @@ Features
 
 Tech Stack
 Frontend: HTML + CSS + JS (or React if needed)
-Backend: Node.js + Express
-Database: MongoDB / Firebase (optional)
+Backend: JS
 Blockchain: TON SDK + TON Connect
 Platform: Telegram Mini App (Web App)
 
